@@ -1,1 +1,2 @@
-#### POODR by Sandi Metz
+#### POODR by Sandi Metz на русском
+Глава 1. [Объектно-ориентированное проектирование](./doc/chapter_01.md)
